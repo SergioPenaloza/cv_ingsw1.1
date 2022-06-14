@@ -16,6 +16,7 @@ public class IngCv_ingsw11 {
      */
     public static void main(String[] args) {
         System.out.println("versión 1");
+        System.out.println("version 1.1");
     }
     
 }
